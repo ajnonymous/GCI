@@ -1,1 +1,4 @@
-println!("Hello, GCI!");
+fn main()
+{
+   println!("Hello, GCI!");
+}
